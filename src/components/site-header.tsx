@@ -31,7 +31,7 @@ export function SiteHeader() {
             </a>
           ))}
           <a
-            className="btn btn-ink"
+            className="btn btn-gold"
             href={waLink()}
             target="_blank"
             rel="noopener noreferrer"
@@ -61,7 +61,7 @@ export function SiteHeader() {
             </a>
           ))}
           <a
-            className="btn btn-ink"
+            className="btn btn-gold"
             href={waLink()}
             target="_blank"
             rel="noopener noreferrer"

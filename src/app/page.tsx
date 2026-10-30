@@ -29,11 +29,6 @@ const jsonLd = {
         addressRegion: city.split("/")[1],
         addressCountry: "BR",
       })),
-      founder: {
-        "@type": "Person",
-        name: site.founder.name,
-        jobTitle: site.founder.role,
-      },
       knowsAbout: [
         "Recuperação de créditos tributários",
         "PIS/COFINS",

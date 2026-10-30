@@ -1,5 +1,3 @@
-import { site } from "@/lib/site";
-
 const principles = [
   {
     strong: "Evidência",
@@ -21,7 +19,7 @@ export function About() {
       <div className="wrap about-grid">
         <div className="rv">
           <p className="eyebrow" id="sobre-title">
-            Quem assina a análise
+            Quem conduz a análise
           </p>
           <blockquote>
             A consultoria se responsabiliza pelo crédito e pelo benefício{" "}
@@ -30,12 +28,13 @@ export function About() {
         </div>
 
         <div className="about-founder rv">
-          <h3>{site.founder.name}</h3>
-          <p className="role">{site.founder.role}</p>
+          <h3>Equipe técnica, conferência integral</h3>
+          <p className="role">Gestão sênior em cada trabalho</p>
           <p>
-            À frente do Grupo Vertices, conduz a análise de cada empresa: mapeia
-            as teses aplicáveis, calibra o risco de cada operação e responde
-            pela execução até o recebimento.
+            A análise é conduzida por equipe de profissionais experientes na
+            área tributária e integralmente conferida pela gestora e CEO do
+            Grupo Vértices, que soma mais de 20 anos de experiência na área
+            trabalhista.
           </p>
           <ul className="principles">
             {principles.map((principle) => (

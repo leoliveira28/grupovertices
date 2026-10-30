@@ -153,6 +153,15 @@ svg {
   color: #fff;
 }
 
+.btn-gold {
+  background: var(--gold);
+  color: var(--ink);
+}
+
+.btn-gold:hover {
+  background: #fff;
+}
+
 .btn-ghost {
   background: transparent;
   border-color: var(--line-strong);
@@ -212,14 +221,14 @@ svg {
   top: 1rem;
 }
 
-/* ---------- cabeçalho ---------- */
+/* ---------- cabeçalho (preto para destacar a logo dourada) ---------- */
 
 .header {
   position: sticky;
   top: 0;
   z-index: var(--z-header);
-  background: var(--bg);
-  border-bottom: 1px solid var(--line);
+  background: var(--dark);
+  border-bottom: 1px solid var(--dark-line);
 }
 
 .header-bar {
@@ -247,12 +256,12 @@ svg {
   font-size: 0.9375rem;
   font-weight: 500;
   text-decoration: none;
-  color: var(--ink-soft);
+  color: var(--dark-muted);
   transition: color 150ms ease-out;
 }
 
 .header-nav a:not(.btn):hover {
-  color: var(--gold-deep);
+  color: var(--gold);
 }
 
 .header .btn {
@@ -263,17 +272,17 @@ svg {
 /* menu mobile (aberto/fechado por estado no componente) */
 .menu-toggle {
   display: none;
-  border: 1px solid var(--line-strong);
+  border: 1px solid var(--dark-line);
   background: none;
   border-radius: 2px;
   padding: 0.5rem;
   line-height: 0;
   cursor: pointer;
-  color: var(--ink);
+  color: #fff;
 }
 
 .menu-toggle:hover {
-  border-color: var(--ink);
+  border-color: var(--gold);
 }
 
 .mobile-menu {
@@ -281,8 +290,8 @@ svg {
   position: absolute;
   inset: 4.25rem 0 auto 0;
   z-index: var(--z-menu);
-  background: var(--bg);
-  border-bottom: 1px solid var(--line);
+  background: var(--dark);
+  border-bottom: 1px solid var(--dark-line);
   padding: 0.5rem var(--gutter) 1.5rem;
 }
 
@@ -292,7 +301,8 @@ svg {
 
 .mobile-menu a:not(.btn) {
   padding: 0.9375rem 0;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid var(--dark-line);
+  color: #fff;
   font-weight: 500;
   text-decoration: none;
 }

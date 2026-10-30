@@ -1,6 +1,6 @@
 # Grupo Vertices · grupovertices.com.br
 
-Landing page de captação da consultoria tributária Grupo Vertices (fundadora: Re Lima).
+Landing page de captação da consultoria tributária Grupo Vértices.
 Construída com **Next.js 16 (App Router)**, React 19, TypeScript e CSS puro (sem framework de UI).
 Estilo: grid suíço com a identidade da marca (das capas dos PDFs) — preto quente, dourado e branco.
 

@@ -8,7 +8,7 @@ brand
 Donos, sócios e decisores financeiros (CFO, contador, gestor) de empresas médias brasileiras nos setores atendidos: supermercados/distribuidoras de alimentos, hospitais, postos de combustível, construção civil, indústrias e metalúrgicas, faculdades, mineradoras, confecção e calçados, concessionárias/autopeças. Regimes Lucro Real e Lucro Presumido. Contexto de uso: alertados sobre a Reforma Tributária (LC 214/2025) ou sobre créditos não aproveitados, pesquisam no Google ou perguntam a IAs ("recuperar PIS/COFINS", "teses tributárias para supermercado", "consultoria tributária"). Querem entender em minutos se há crédito a recuperar e falar com um especialista sem atrito.
 
 ## Product Purpose
-Landing page de captação do Grupo Vértices, consultoria tributária fundada por Re Lima. Converte a visita em conversa de WhatsApp para diagnóstico de oportunidades tributárias: teses pacificadas, recuperação de créditos dos últimos 5 anos, laudos técnicos, preparação para a Reforma Tributária. Sucesso: conversas qualificadas no WhatsApp originadas de busca orgânica (Google) e de engines generativos (ChatGPT, Perplexity, Gemini).
+Landing page de captação do Grupo Vértices, consultoria tributária. Converte a visita em conversa de WhatsApp para diagnóstico de oportunidades tributárias: teses pacificadas, recuperação de créditos dos últimos 5 anos, laudos técnicos, preparação para a Reforma Tributária. Sucesso: conversas qualificadas no WhatsApp originadas de busca orgânica (Google) e de engines generativos (ChatGPT, Perplexity, Gemini).
 
 ## Brand Personality
 Técnica, precisa, sóbria. Autoridade vem de jurisprudência, método e clareza — nunca de hype comercial. Três palavras: rigorosa, transparente, direta.
