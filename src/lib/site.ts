@@ -11,8 +11,8 @@ export const site = {
     "Recuperação de tributos pagos indevidamente nos últimos cinco anos, com teses pacificadas no STF e no STJ. Atendimento em todo o Brasil para empresas de Lucro Real e Lucro Presumido.",
 
   /** WhatsApp do CTA principal (formato internacional: 55 + DDD + número) */
-  whatsapp: "5517991159605",
-  whatsappDisplay: "(17) 99115-9605",
+  whatsapp: "5517991141566",
+  whatsappDisplay: "(17) 99114-1566",
   whatsappMessage:
     "Olá! Vim pelo site do Grupo Vértices e quero um diagnóstico das oportunidades tributárias da minha empresa.",
 
