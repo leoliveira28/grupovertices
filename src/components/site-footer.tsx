@@ -30,9 +30,11 @@ export function SiteFooter() {
           <div className="footer-contact">
             <span className="label">Contato</span>
             <a href={waLink()} target="_blank" rel="noopener noreferrer">
-              WhatsApp {site.whatsappDisplay}
+              WhatsApp · {site.whatsappDisplay}
             </a>
-            <a href={`tel:${site.phone}`}>{site.phoneDisplay}</a>
+            <a href={`tel:${site.whatsapp}`}>
+              Telefone · {site.whatsappDisplay}
+            </a>
             <a href={`mailto:${site.email}`}>{site.email}</a>
             <span>
               {site.cities.join(" · ")} · atendimento em todo o Brasil
