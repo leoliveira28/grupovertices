@@ -18,8 +18,8 @@ export const site = {
 
   email: "atendimento@grupovertices.com.br",
 
-  /** Cidades do cartão; renderizam no rodapé */
-  cities: ["Belo Horizonte/MG", "São José do Rio Preto/SP"],
+  /** Cidade-sede; renderiza no rodapé e no schema */
+  cities: ["São José do Rio Preto/SP"],
 } as const;
 
 /** Monta o deep link do WhatsApp com mensagem pré-preenchida. */
