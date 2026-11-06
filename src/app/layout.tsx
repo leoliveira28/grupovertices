@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Archivo } from "next/font/google";
 import { site } from "@/lib/site";
+import { MetaPixel } from "@/components/meta-pixel";
 import "./globals.css";
 
 const archivo = Archivo({
@@ -46,6 +47,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="pt-BR" className={archivo.variable}>
       <body>
+        <MetaPixel />
         <a href="#conteudo" className="skip-link">
           Pular para o conteúdo
         </a>

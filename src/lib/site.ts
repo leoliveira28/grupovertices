@@ -18,6 +18,9 @@ export const site = {
 
   email: "atendimento@grupovertices.com.br",
 
+  /** Meta Pixel (Facebook) para anúncios */
+  pixelId: "1126924230201495",
+
   /** Cidade-sede; renderiza no rodapé e no schema */
   cities: ["São José do Rio Preto/SP"],
 } as const;
